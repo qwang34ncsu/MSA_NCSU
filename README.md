@@ -1,9 +1,5 @@
 # Tictactoe
 
-## Game Rule
+## Enjoy playing :)
+![image](https://github.com/qwang34ncsu/Tictactoe/assets/63484703/9f2b8f5b-3eea-4d2f-aff8-249ed6c411a0)
 
-### 1. Initialize the board to be empty.
-### 2. X starts, and chooses a position to place their marker.
-### 3. O positions their marker in any empty position.
-### 4. After each marker is placed, a check is made to see whether either player has won.
-### 5. Placement alternates until a player wins or the board is full, at which point the game is called for a tie.
